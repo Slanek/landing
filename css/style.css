@@ -353,6 +353,17 @@ footer p{
         .partners{
             height: auto;
         }
+        .form{
+            width: 500px
+        }
+        .form_input{
+            width: 250px;
+        }
+        .form_btn{
+            margin: 25px;
+            padding: 5px 30px;
+            font-size: 20px;
+        }
 }
 /*Preloader*/
 .preloader {
