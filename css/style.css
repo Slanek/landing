@@ -83,7 +83,7 @@ nav{
 }
 .projects_cards,.comments_cards,.contact_cards,.partner{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
 }
 .projects_card{
@@ -354,15 +354,20 @@ footer p{
             height: auto;
         }
         .form{
-            width: 500px
+            width: 300px
         }
         .form_input{
-            width: 250px;
+            width: 200px;
         }
         .form_btn{
-            margin: 25px;
-            padding: 5px 30px;
-            font-size: 20px;
+            margin: 20px;
+            padding: 5px 25px;
+            font-size: 18px;
+        }
+        #button-up{
+            right: 0;
+            padding: 0;
+            font-size: 25px;
         }
 }
 /*Preloader*/
