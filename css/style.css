@@ -65,6 +65,8 @@ nav{
 .info_text{
     font-size: 18px;
     line-height: 2.5;
+    text-align: left;
+    margin: 25px;
 }
 .picture{
     background: url(../images/projects/house.svg);
